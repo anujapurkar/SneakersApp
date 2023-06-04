@@ -6,3 +6,8 @@ Feature list:
  5. Cart Activity to display list of added sneakers
  6. Remove option on Cart activity for added sneakers
  7. Total amount of added sneakers
+
+ Decisions:
+ As there is no Network call so retrofit is not added
+ Required Data has been added in JSON file
+ For Image of the sneakers I have added Image files in Drawable folder
