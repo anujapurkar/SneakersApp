@@ -1,0 +1,3235 @@
+[
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 High OG",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-high-og-shoe-75a0aZ/CT8532-001_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 190,
+    "styleId": "CT8532-001",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 High OG",
+    "title": "Air Jordan 1 High OG - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "Adidas",
+    "colorway": "Yeezy Boost 350 V2",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html",
+      "smallImageUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/yeezy-boost-350-v2-core-black-ftwr-white/GZ0472.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 220,
+    "styleId": "GZ0472",
+    "shoe": "Yeezy Boost 350 V2",
+    "name": "Yeezy Boost 350 V2 - Core Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb0",
+    "brand": "Nike",
+    "colorway": "Air Max 90",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100",
+      "smallImageUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-max-90-shoe-75a0aZ/CT1684-100_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 170,
+    "styleId": "CT1684-100",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 - White and Black"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afb1",
+    "brand": "Adidas",
+    "colorway": "NMD R1",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html",
+      "smallImageUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/nmd-r1-shoes/GZ0274.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "GZ0274",
+    "shoe": "NMD R1",
+    "name": "NMD R1 - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afab",
+    "brand": "Nike",
+    "colorway": "Air Jordan 1 Mid",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112",
+      "smallImageUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_s.jpg",
+      "thumbUrl": "https://www.nike.com/t/air-jordan-1-mid-shoe-75a0aZ/554724-112_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 160,
+    "styleId": "554724-112",
+    "shoe": "Air Jordan 1 Mid",
+    "name": "Air Jordan 1 Mid - Black and White"
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afac",
+    "brand": "Adidas",
+    "colorway": "Ultraboost 22",
+    "gender": "Men's",
+    "media": {
+      "imageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html",
+      "smallImageUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_s.jpg",
+      "thumbUrl": "https://www.adidas.com/us/ultraboost-22-shoes/GY5923.html_t.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 180,
+    "styleId": "GY5923",
+    "shoe": "Ultraboost 22",
+    "name": "Ultraboost 22 - Core Black and White"
+  }
+]
